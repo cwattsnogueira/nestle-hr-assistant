@@ -37,7 +37,7 @@ Both versions are deployed in Google Colab with Gradio interfaces for real-time 
 |------|-------------|-------------|
 | [`Unit6FinalProject04.ipynb`](https://github.com/cwattsnogueira/nestle-hr-assistant/blob/main/Unit6FinalProject04.ipynb) | HR assistant using Flan-T5, FAISS, and sentence-transformers | <a href="https://colab.research.google.com/github/cwattsnogueira/nestle-hr-assistant/blob/main/Unit6FinalProject04.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | [`Unit6FinalProjectOpenAI.ipynb`](https://github.com/cwattsnogueira/nestle-hr-assistant/blob/main/Unit6FinalProjectOpenAI.ipynb) | HR assistant using GPT-3.5 Turbo, ChromaDB, and LangChain | <a href="https://colab.research.google.com/github/cwattsnogueira/nestle-hr-assistant/blob/main/Unit6FinalProjectOpenAI.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-
+|[`the_nestle_hr_policy_pdf_2012.pdf`](https://github.com/cwattsnogueira/nestle-hr-assistant/blob/main/the_nestle_hr_policy_pdf_2012.pdf)  |Source document used for retrieval-based Q&A| - |
 
 ---
 
