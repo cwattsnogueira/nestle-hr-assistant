@@ -7,14 +7,13 @@
 
 ##  Tecnologias e Frameworks
 
-| Badge | Markdown |
-|-------|----------|
-| Python | `![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)` |
-| LangChain | `![LangChain](https://img.shields.io/badge/LangChain-integrated-green?logo=python)` |
-| Gradio | `![Gradio](https://img.shields.io/badge/Gradio-UI-orange?logo=gradio)` |
-| OpenAI | `![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-blue?logo=openai)` |
-| FAISS | `![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-purple)` |
-| ChromaDB | `![ChromaDB](https://img.shields.io/badge/ChromaDB-Retrieval-green)` |
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-integrated-green?logo=python)](https://www.langchain.com/)
+[![Gradio](https://img.shields.io/badge/Gradio-UI-orange?logo=gradio)](https://www.gradio.app/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-blue?logo=openai)](https://platform.openai.com/)
+[![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-purple)](https://github.com/facebookresearch/faiss)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-Retrieval-green)](https://www.trychroma.com/)
+
 
 > Generative AI Capstone · University of San Diego / Fullstack Academy  
 > Developed by **Carllos Watts-Nogueira** · September 2025
@@ -38,9 +37,7 @@ Both versions are deployed in Google Colab with Gradio interfaces for real-time 
 |------|-------------|-------------|
 | [`Unit6FinalProject04.ipynb`](https://github.com/cwattsnogueira/nestle-hr-assistant/blob/main/Unit6FinalProject04.ipynb) | HR assistant using Flan-T5, FAISS, and sentence-transformers | <a href="https://colab.research.google.com/github/cwattsnogueira/nestle-hr-assistant/blob/main/Unit6FinalProject04.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | [`Unit6FinalProjectOpenAI.ipynb`](https://github.com/cwattsnogueira/nestle-hr-assistant/blob/main/Unit6FinalProjectOpenAI.ipynb) | HR assistant using GPT-3.5 Turbo, ChromaDB, and LangChain | <a href="https://colab.research.google.com/github/cwattsnogueira/nestle-hr-assistant/blob/main/Unit6FinalProjectOpenAI.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| `requirements.txt` | Python dependencies for local setup | [View on Hugging Face](https://huggingface.co/spaces/cwattsnogueira/bikeease-ad-generator/tree/main) |
-| `LICENSE` | MIT License for open-source use | [View License](https://github.com/cwattsnogueira/bikeease-ad-generator/blob/main/LICENSE) |
-| `README.md` | Project documentation and context | — |
+
 
 ---
 
@@ -79,8 +76,8 @@ This project is licensed under the [MIT License](https://github.com/cwattsnoguei
 
 ---
 
-## 👤 Author
+##  Author
 
 **Carllos Watts-Nogueira**  
 AI/ML Engineer · Capstone Project — September 2025  
-[LinkedIn](https://www.linkedin.com/in/cwattsnogueira) · [GitHub](https://github.com/cwattsnogueira)
+
